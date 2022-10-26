@@ -130,66 +130,66 @@ plt.show()
 
 ## OUTPUT:
 ### Reading CSV File
-![df](./df)
+![df](./df.png)
 ### Basic Process
 
 #### Head
-![head](./head)
+![head](./head.png)
 #### Info
-![info](./info)
+![info](./info.png)
 #### Describe
-![des](./describe)
+![des](./describe.png)
 #### Tail
-![tail](./tail)
+![tail](./tail.png)
 #### Shape
-![shape](./shape)
+![shape](./shape.png)
 #### Columns
-![cols](./cols)
+![cols](./cols.png)
 #### Null Values
-![null](./null)
+![null](./null.png)
 #### Duplicate Values
-![duplicate](./duplicate)
+![duplicate](./duplicate.png)
 
 ### Before Transformation
 
 #### Highly Positive Skew
-![HPS](./HPS)
+![HPS](./HPS.png)
 #### Highly Negative Skew
-![HNS](./HNS)
+![HNS](./HNS.png)
 #### Moderate Positive Skew
-![MPS](./MPS)
+![MPS](./MPS.png)
 #### Moderate Negative Skew
-![MNS](./MNS)
+![MNS](./MNS.png)
 
 ### Log Transformation
 
 #### Highly Positive Skew
-![HPS](./log_transformation_HPS)
+![HPS](./log_transformation_HPS.png)
 #### Moderate Positive Skew
-![MPS](./log_transformation_MPS)
+![MPS](./log_transformation_MPS.png)
 
 ### Reciprocal Transformation
 
 #### Highly Positive Skew
-![HPS](./Reciprocal_transformation_HPS)
+![HPS](./Reciprocal_transformation_HPS.png)
 
 ### Square Root Transformation
 
 #### Highly Positive Skew
-![HPS](./sqrt_transformation_HPS)
+![HPS](./sqrt_transformation_HPS.png)
 
 ### Quantile Transformation
 
 #### Moderate Negative Skew
-![MNS](./Quantile_transformation_MNS)
+![MNS](./Quantile_transformation_MNS.png)
 
 ### Power Transformation
 
 #### Moderate Positive Skew
-![MNS](./Power_transformation_MPS)
+![MNS](./Power_transformation_MPS.png)
 
 #### Moderate Negative Skew
-![MNS](./Power_transformation_MNS)
+![MNS](./Power_transformation_MNS.png)
 
 
 ## RESULT:
