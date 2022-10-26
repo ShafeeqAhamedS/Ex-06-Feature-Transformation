@@ -183,6 +183,14 @@ plt.show()
 #### Moderate Negative Skew
 ![MNS](./Quantile_transformation_MNS)
 
+### Power Transformation
+
+#### Moderate Positive Skew
+![MNS](./Power_transformation_MPS)
+
+#### Moderate Negative Skew
+![MNS](./Power_transformation_MNS)
+
 
 ## RESULT:
 Thus feature transformation is done for the given dataset.
