@@ -178,11 +178,6 @@ plt.show()
 #### Highly Positive Skew
 ![HPS](./sqrt_transformation_HPS.png)
 
-### Quantile Transformation
-
-#### Moderate Negative Skew
-![MNS](./Quantile_transformation_MNS.png)
-
 ### Power Transformation
 
 #### Moderate Positive Skew
@@ -190,6 +185,11 @@ plt.show()
 
 #### Moderate Negative Skew
 ![MNS](./Power_transformation_MNS.png)
+
+### Quantile Transformation
+
+#### Moderate Negative Skew
+![MNS](./Quantile_transformation_MNS.png)
 
 
 ## RESULT:
